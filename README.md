@@ -26,8 +26,7 @@ agora, e guarda o que fizeram.*
 - Guarda o histórico em banco na própria máquina.
 - Alertas configurados por equipamento, incluindo a exposição a NH₃ nos
   analisadores de amônia
-- Hoje na linha: mais de 200 equipamentos — insensibilizadores, hidrômetros
-  e analisadores de amônia
+- Hoje na linha: insensibilizadores, hidrômetros e analisadores de amônia
 
 Comunica MQTT pela rede ou Modbus serial RS485, e qual dos dois
 é escolha do usuário.
@@ -55,12 +54,6 @@ com registro de quem mexeu em quê.*
 
 Node.js · Microsoft Graph · exceljs · qrcode
 
-## Código aberto aqui
-
-**[Animacoes](https://github.com/Vbonadiman/Animacoes)** — peças de animação e
-de interface tiradas desses sistemas, todas sem dependência. A primeira é a
-`particulas-logo`: pontos que se juntam e formam uma logo, 19 KB e sem bundler.
-
 ## Agora
 
 Construindo um ERP com CRM: compras, estoque, produção, clientes e a
@@ -68,7 +61,7 @@ rastreabilidade de cada equipamento que sai da fábrica, do número de série at
 cliente que comprou.
 **[O que já está de pé →](https://github.com/Vbonadiman/portfolio/tree/main/gestao-suprimentos)**
 
-Também extraindo mais peças dos sistemas para o `Animacoes`, e estudando
+Também extraindo peças reaproveitáveis desses sistemas, e estudando
 inteligência artificial e desenvolvimento de software.
 
 Aberto a oportunidades como desenvolvedor.
